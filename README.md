@@ -1,4 +1,4 @@
-# VOWELS_SACHIN_AI-EXAM-TIME-TABLE-CONFLICT-RESLOVER
+# VOWELS_SACHIN_AI-EXAM-TIME-TABLE-CONFLICT-RESOLVER
 🎓 AI-powered exam timetable conflict resolver with automatic scheduling optimization. Built for hackathons with instant demo data and 2-minute setup.
 # 🎓 AI Exam Timetable Conflict Resolver
 
